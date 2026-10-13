@@ -1,35 +1,21 @@
 <div align="center">
 
-<a href="https://github.com/MortezaAbner">
-  <img src="https://github.com/MortezaAbner.png" width="140" alt="Morteza Abner" style="border-radius: 50%;" />
-</a>
-
-<h1>
-  سلام، من مرتضی هستم 👋
-</h1>
-
-<h3>🎨 طراح و سازنده‌ی محصولات دیجیتال چند-سکویی</h3>
-
-<p>
-  <a href="https://github.com/MortezaAbner/ChromeExtensions">
-    <img src="https://img.shields.io/badge/ABNER-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1e293b" alt="Abner" />
-  </a>
-  <a href="https://github.com/MortezaAbner">
-    <img src="https://img.shields.io/badge/GITHUB-MortezaAbner-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub" />
-  </a>
-  <a href="https://t.me/MortezaAbnerChannel">
-    <img src="https://img.shields.io/badge/TELEGRAM-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1e293b" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/Morteza.Abner">
-    <img src="https://img.shields.io/badge/INSTAGRAM-Morteza.Abner-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b" alt="Instagram" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=MortezaAbner&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="views" />
-
-</div>
+<img src="https://github.com/MortezaAbner.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #38bdf8; box-shadow: 0 0 30px rgba(56, 189, 248, 0.6), 0 0 60px rgba(167, 139, 250, 0.4);" />
 
 <br />
+<br />
+
+# سلام، من مرتضی هستم 👋
+
+### 🎨 طراح و سازنده‌ی محصولات دیجیتال چند-سکویی
+
+<br />
+
+[![Website](https://img.shields.io/badge/Website-Abner-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/MortezaAbner/ChromeExtensions)
+[![GitHub](https://img.shields.io/badge/GitHub-MortezaAbner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortezaAbner)
+[![Email](https://img.shields.io/badge/Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
 
 ---
 
@@ -66,25 +52,37 @@
 
 ---
 
-## 🛠 تکنولوژی‌ها
+## 🛠 پلتفرم‌هایی که روش کار می‌کنم
 
 <div align="center">
 
-**Platforms**
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Web Apps](https://img.shields.io/badge/Web_Apps-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+</div>
 
-**Frontend**
+---
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 💻 تکنولوژی‌ها و ابزارها
+
+<div align="center">
+
+### 🎨 فرانت‌اند
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**AI Assistants**
+### 🛠 ابزارهای توسعه
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+### 🤖 دستیارهای AI
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -93,34 +91,33 @@
 
 ---
 
-## 🚀 پروژه‌ها
+## 🚀 پروژه‌های من
 
 <div align="center">
 
 ### 🖐️ افزونه آبنر
 
-صفحه‌ی تب جدید مدرن فارسی — تقویم شمسی · اوقات شرعی · آب‌وهوا · تسک · بوکمارک · همگام‌سازی با گوگل
+صفحه تب جدید مدرن فارسی با تقویم شمسی، اوقات شرعی، آب‌وهوا، تسک، بوکمارک و همگام‌سازی با گوگل
 
-<br />
-
-[![Chrome](https://img.shields.io/badge/✓_Chrome-4285F4?style=flat-square&logoColor=white)](https://github.com/MortezaAbner/ChromeExtensions)
-[![PWA](https://img.shields.io/badge/✓_PWA-5A0FC8?style=flat-square&logoColor=white)](https://github.com/MortezaAbner/ChromeExtensions)
-[![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square&logoColor=white)](https://github.com/MortezaAbner/ChromeExtensions)
-
-<br />
-
-**[→ مشاهده پروژه](https://github.com/MortezaAbner/ChromeExtensions)**
+![Chrome](https://img.shields.io/badge/Chrome-✓-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-✓-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Active](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
 
 <br />
 <br />
 
----
+[**🖐️ مشاهده پروژه آبنر →**](https://github.com/MortezaAbner/ChromeExtensions)
+
+<br />
+<br />
 
 ### 🎯 پروژه‌ی بعدی
 
-`🚧 در حال ساخت...`
+```
+🚧 در حال ساخت...
+```
 
-یه محصول جدید برای کاربران فارسی‌زبان
+یه محصول جدید برای کاربران فارسی‌زبان — به‌زودی! ✨
 
 </div>
 
@@ -130,8 +127,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MortezaAbner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaAbner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&langs_count=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MortezaAbner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaAbner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -141,34 +139,32 @@
 
 <div align="center">
 
-<br />
-
 > ### «ابزار، جای خلاقیت و ایده رو نمی‌گیره»
 >
 > *AI یه دستیارِ مثل AutoCAD برای یه معماره — نه بیشتر، نه کمتر.*
-
-<br />
 
 </div>
 
 ---
 
+## 🤝 بیا با هم بسازیم
+
 <div align="center">
 
-### 💌 بیا با هم بسازیم
-
-اگه ایده‌ای داری یا می‌خوای گپ بزنیم، خوشحال می‌شم بشنوم.
+اگه ایده‌ای داری، پروژه‌ای داری، یا فقط می‌خوای گپ بزنیم:
 
 <br />
 
-[![Telegram](https://img.shields.io/badge/Telegram-@MortezaAbnerChannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MortezaAbnerChannel)
-[![Instagram](https://img.shields.io/badge/Instagram-@Morteza.Abner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Morteza.Abner)
+[![Email](https://img.shields.io/badge/Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-MortezaAbner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortezaAbner)
+[![Telegram](https://img.shields.io/badge/Telegram-MortezaAbnerChannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MortezaAbnerChannel)
+[![Instagram](https://img.shields.io/badge/Instagram-Morteza.Abner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Morteza.Abner)
 
 <br />
-<br />
 
-⭐ اگه پروژه‌هام رو دوست داشتی، بهشون ستاره بده
+---
+
+### ⭐ از پروژه‌هام خوشت اومد؟ بهشون ستاره بده!
 
 <br />
 
