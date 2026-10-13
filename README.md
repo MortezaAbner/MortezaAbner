@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/MortezaAbner.png" width="140" style="border-radius: 50%; border: 4px solid #38bdf8" />
+<img src="https://github.com/MortezaAbner.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #38bdf8; box-shadow: 0 0 30px rgba(56, 189, 248, 0.6), 0 0 60px rgba(167, 139, 250, 0.4);" />
+
+<br />
+<br />
 
 # سلام، من مرتضی هستم 👋
 
@@ -10,7 +13,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Abner-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/MortezaAbner/ChromeExtensions)
 [![GitHub](https://img.shields.io/badge/GitHub-MortezaAbner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortezaAbner)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morteza.rafatpour@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
@@ -18,22 +21,24 @@
 
 ## 💫 درباره من
 
-<table>
-<tr>
-<td width="60%">
+<div dir="rtl" align="right">
 
 من یه **سازنده‌ی محصولات دیجیتال** هستم که عاشق طراحی و ساخت ابزارهای کاربردی برای فارسی‌زبانانم.
 
 کارم رو با **ایده‌پردازی، طراحی تجربه‌ی کاربری و ساخت محصول** شروع می‌کنم و از **هوش مصنوعی به‌عنوان دستیار فنی** برای پیاده‌سازی استفاده می‌کنم. هدفم ساختن ابزارهایی‌ست که واقعاً به کار مردم بیاد.
 
 ### 🎯 چیزی که منو متفاوت می‌کنه
+
 - 🚀 **چند-پلتفرمی** — از افزونه کروم تا وب‌اپ، اندروید و iOS
 - 🎨 **طراحی مدرن** — Glassmorphism، مینیمالیسم و تجربه‌ی کاربری روان
 - 🇮🇷 **بومی‌سازی کامل** — همه‌چیز به فارسی و برای کاربر ایرانی
 - 🤖 **AI-Powered Development** — سرعت بالا با کیفیت حرفه‌ای
 
-</td>
-<td width="40%" align="center">
+</div>
+
+<br />
+
+<div align="center">
 
 ```typescript
 const morteza = {
@@ -47,9 +52,7 @@ const morteza = {
 };
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -96,38 +99,32 @@ const morteza = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 ### 🖐️ افزونه آبنر
 
+<div dir="rtl">
+
 صفحه تب جدید مدرن فارسی با تقویم شمسی، اوقات شرعی، آب‌وهوا، تسک، بوکمارک و همگام‌سازی با گوگل
+
+</div>
 
 ![Platform](https://img.shields.io/badge/Chrome-✓-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Platform](https://img.shields.io/badge/PWA-✓-5A0FC8?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/مشاهده_پروژه-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortezaAbner/ChromeExtensions)
+<br />
+<br />
 
-</td>
-<td align="center" width="50%">
+[**🖐️ مشاهده پروژه آبنر →**](https://github.com/MortezaAbner/ChromeExtensions)
+
+<br />
 
 ### 🎯 پروژه‌ی بعدی
-
-<div align="center">
 
 ```
 🚧 در حال ساخت...
 ```
 
 یه محصول جدید برای کاربران فارسی‌زبان — به‌زودی! ✨
-
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -143,42 +140,15 @@ const morteza = {
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MortezaAbner&theme=radical&hide_border=true&background=0d1117&stroke=38bdf8&ring=a78bfa&fire=fb923c&currStreakLabel=38bdf8)
-
-</div>
-
----
-
-## 🏆 دستاوردها
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MortezaAbner&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 نمودار فعالیت
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MortezaAbner&theme=react-dark&bg_color=0d1117&color=38bdf8&line=a78bfa&point=f8fafc&area=true&hide_border=true)
-
-</div>
-
 ---
 
 ## 💡 فلسفه‌ی من
 
-<div align="center">
+<div align="center" dir="rtl">
 
 > **«ابزار، جای خلاقیت و ایده رو نمی‌گیره»**
 >
-> *من محصول می‌سازم. AI یه دستیارِ مثل AutoCAD برای یه معماره —*
-> *نه بیشتر، نه کمتر.*
+> من محصول می‌سازم. AI یه دستیارِ مثل AutoCAD برای یه معماره — نه بیشتر، نه کمتر.
 
 </div>
 
@@ -192,10 +162,10 @@ const morteza = {
 
 <br />
 
-[![Email](https://img.shields.io/badge/ایمیل-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morteza.rafatpour@gmail.com)
-[![GitHub](https://img.shields.io/badge/گیت‌هاب-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortezaAbner)
-[![Telegram](https://img.shields.io/badge/تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![Instagram](https://img.shields.io/badge/اینستاگرام-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-Coming_Soon-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-MortezaAbner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MortezaAbner)
+[![Telegram](https://img.shields.io/badge/Telegram-MortezaAbnerChannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MortezaAbnerChannel)
+[![Instagram](https://img.shields.io/badge/Instagram-Morteza.Abner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Morteza.Abner)
 
 <br />
 
@@ -203,9 +173,6 @@ const morteza = {
 
 ### ⭐ از پروژه‌هام خوشت اومد؟ بهشون ستاره بده!
 
-<img src="https://komarev.com/ghpvc/?username=MortezaAbner&label=بازدید%20پروفایل&color=38bdf8&style=for-the-badge" />
-
-<br />
 <br />
 
 **ساخته‌شده با ❤️ در ایران 🇮🇷**
