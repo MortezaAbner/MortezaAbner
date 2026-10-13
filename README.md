@@ -127,9 +127,14 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MortezaAbner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MortezaAbner&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=f8fafc&border_radius=16&cache_seconds=86400" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaAbner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaAbner&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f8fafc&langs_count=8&border_radius=16&cache_seconds=86400" />
+
+<br />
+<br />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MortezaAbner&theme=radical&hide_border=true&background=0d1117&stroke=38bdf8&ring=a78bfa&fire=fb923c&currStreakLabel=38bdf8&border_radius=16)
 
 </div>
 
